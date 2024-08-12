@@ -1,2 +1,2 @@
-# CGANs-on-MNIST
-Implementing and training convolutional generative adversarial networks on MNIST dataset
+# DCGANs-on-MNIST
+Implementing and training deep convolutional generative adversarial networks on MNIST dataset
